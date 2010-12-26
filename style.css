@@ -57,10 +57,18 @@
 	font-family: helvetica, arial
 }
 
+#content h1
+{
+	color: #000;
+	font-size: 22px;
+	margin: 0;
+	font-family: helvetica, arial
+}
+
 #content h2
 {
 	color: #000;
-	font-size: 160%;
+	font-size: 20px;
 	margin: 0 0 .5em;
 	font-family: helvetica, arial
 }
